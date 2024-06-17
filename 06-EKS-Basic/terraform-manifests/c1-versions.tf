@@ -12,5 +12,5 @@ terraform {
 # Terraform Provider Block
 provider "aws" {
   region = "ap-northeast-2"
-  profile = "js"
+  profile = "seobi-eks"
 }
